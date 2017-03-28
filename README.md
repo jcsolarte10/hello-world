@@ -1,2 +1,4 @@
 # hello-world
-N/A
+Hi Humans!
+
+This is my first program!!!!
